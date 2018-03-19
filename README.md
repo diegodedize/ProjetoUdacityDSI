@@ -16,10 +16,10 @@ Entendi no estudo que as bikes são utilizadas fortemente para caminho de trabal
 
 
 # Requeriments
-Python 3
-Pandas
-matplotlib
-numpy
+Python 3 \n
+Pandas \n
+matplotlib\n
+numpy\n
 Jupyter Notebook
 
 # Como contribuir
